@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://QFHuuu.github.io</id>
     <title>QFHuuu</title>
-    <updated>2019-10-15T03:17:03.583Z</updated>
+    <updated>2019-10-15T05:45:42.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://QFHuuu.github.io"/>
     <link rel="self" href="https://QFHuuu.github.io/atom.xml"/>
@@ -16,12 +16,9 @@
         <link href="https://QFHuuu.github.io/post/test">
         </link>
         <updated>2019-10-15T02:06:36.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="测试文章功能">测试文章功能</h2>
-<p>cool！！😎🤡</p>
-]]></summary>
         <content type="html"><![CDATA[<h2 id="测试文章功能">测试文章功能</h2>
-<p>cool！！😎🤡</p>
-<!-- more -->
+<p>cool！！😎<br>
+<img src="https://QFHuuu.github.io/post-images/1571110178899.gif" alt=""></p>
 ]]></content>
     </entry>
     <entry>
